@@ -12,9 +12,9 @@
 %%
 %%   Robust Reading software is a software for reading text in natural/
 %%   urban scenes. It has two parts : text localization and word reading.
-%%   Former is implemented using basic image processing while for latter,
-%%   neural networks are with bag of visual words. The code is tested on
-%%   matlab. Compatibility with GNU-OCtave not yet tested.
+%%   Former is implemented using basic image processing while for latter
+%%   neural networks are trained with bag of visual words. The code is 
+%%   tested on matlab. Compatibility with Octave not yet tested.
 %%
 %%
 %%   For usage :
